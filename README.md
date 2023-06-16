@@ -3,7 +3,7 @@
   <h1>CustomBot</h1>
   <h3>Bot manager aimed at full customization</h3>
 
-[![License](https://img.shields.io/github/license/mani1232/CustomBot?style=for-the-badge&logo=github)](LICENSE)
+[![License]()](LICENSE)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mani1232/CustomBot/build.yml?style=for-the-badge)](https://github.com/mani1232/CustomBot/actions)
 [![Discord](https://img.shields.io/discord/1041851761796841554?color=5865F2&label=discord&style=for-the-badge)](https://discord.gg/J4VhTA7bvj)
 
