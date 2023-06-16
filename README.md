@@ -3,8 +3,7 @@
   <h1>CustomBot</h1>
   <h3>Bot manager aimed at full customization</h3>
 
-[![License]()](LICENSE)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mani1232/CustomBot/build.yml?style=for-the-badge)](https://github.com/mani1232/CustomBot/actions)
+[![License](https://github.com/loveahox/Discord-Bot/blob/60d0f8188fccaa34daa73006a42ee93937ed3e7c/LICENSE.md)](LICENSE)
 [![Discord](https://img.shields.io/discord/1041851761796841554?color=5865F2&label=discord&style=for-the-badge)](https://discord.gg/J4VhTA7bvj)
 
 </div>
