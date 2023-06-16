@@ -17,7 +17,6 @@
 
 ### Roadmap
 
-- [TODO]
 - Addons feature
 - Storage data management
 - Can be used for different social networks Discord, Telegram, etc.
@@ -30,7 +29,6 @@
 ## Downloads
 
 - Stable (Recommended): [Polymart](https://polymart.org/resource/custombot.3248), [BuiltByBit](https://builtbybit.com/resources/custombot.26348/updates)
-- Dev (Not Recommended): [GitHub](https://github.com/mani1232/CustomBot/actions) (Open latest action and download)
 
 ## Supported Versions
 
