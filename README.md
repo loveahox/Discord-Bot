@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/mani1232/CustomBot/blob/master/img/CustomBot_Banner.png?raw=true" alt="CustomBot logo"/>
   <h1>CustomBot</h1>
-  <h3>Bot manager aimed at full customization</h3>
+  <h3>Bot Manager aimed at full customization</h3>
 
 [![Discord](https://img.shields.io/discord/1041851761796841554?color=5865F2&label=discord&style=for-the-badge)](https://discord.gg/J4VhTA7bvj)
 
@@ -17,7 +17,7 @@
 
 ### Roadmap
 
-- [TODO](https://github.com/users/mani1232/projects/1)
+- [TODO]
 - Addons feature
 - Storage data management
 - Can be used for different social networks Discord, Telegram, etc.
